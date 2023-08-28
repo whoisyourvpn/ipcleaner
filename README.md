@@ -17,3 +17,6 @@ This application was specifically crafted for internal projects where there's a 
 ### Note:
 
 While this application serves a specific use-case, it can be a foundation for more extensive CSV processing tasks or can be adapted to fit other data cleaning requirements.
+
+🤖 Disclosure:
+This masterpiece of niche-specific code was meticulously crafted with the guidance of ChatGPT from OpenAI. If it's a little too perfect for your tastes, now you know why. Use at your own amusement and always remember: the future is now, and it's sarcastically verbose.
